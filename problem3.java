@@ -5,6 +5,6 @@ public class problem3
     {
         String name = "Ethan Au";
         String loc = "California";
-        System.out.println("My name is " + name + ". I lvie in " + loc + ".");
+        System.out.println("My name is " + name + ". I live in " + loc + ".");
     }
 }
